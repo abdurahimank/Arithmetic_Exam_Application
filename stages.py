@@ -1,10 +1,10 @@
-# Stage 1/4: Mini-calculator
-x, oper, y = input().split()
-x = float(x)
-y = float(y)
-if oper == "+":
-    print(x + y)
-elif oper == "-":
-    print(x - y)
+# Stage 2/4: Task generator
+import random
+
+
+x, y, oper = random.randint(2, 9), random.randint(2, 9), random.choice(["+", "-", "*"])
+print(x, oper, y)
+if int(input()) == eval(str(x) + oper + str(y)):
+    print("Right!")
 else:
-    print(x * y)
+    print("Wrong!")
