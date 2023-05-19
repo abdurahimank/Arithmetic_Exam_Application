@@ -12,8 +12,8 @@ An application that can facilitate solving arithmetic operations in a quick mann
 7. Any other improvement that might be useful!
 
 ## References
-1. [Hyperskill - Jetbrains Academy]() <br>
+1. [Hyperskill - Jetbrains Academy](https://hyperskill.org/projects/173) <br>
     a. [Stage 1](https://hyperskill.org/projects/173/stages/893/implement) <br>
     b. [Stage 2](https://hyperskill.org/projects/173/stages/894/implement) <br>
     c. [Stage 3](https://hyperskill.org/projects/173/stages/895/implement) <br>
-    d. [Stage 4]() <br>
+    d. [Stage 4](https://hyperskill.org/projects/173/stages/896/implement) <br>
